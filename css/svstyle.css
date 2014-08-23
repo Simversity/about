@@ -1,0 +1,57 @@
+/*== style for the page VIVEK 1 A Siminar Sign Up Page Layout Options.html starts here == */
+.svcontentwithprogress .svnobullet .pull_left_btn {float: left;}
+.svcontentwithprogress .add_facilitator{margin-bottom: 40px; display: block;}
+.svcontentwithprogress .span2small{width: 70px; float: left; display: block;}
+.testimonial_section {border-bottom: 1px dotted #ccc; margin-bottom: 10px;}
+/* style for active facilitator and book*/
+.active_facilitator a:hover { text-decoration: none;}
+.active_book a:hover { text-decoration: none;}
+.svsummaryeditarea .active_facilitator img {padding: 4px;background: #eee;box-shadow: inset 0 0 2px #667;overflow: hidden;width: 60px;height: 60px;}
+.svsummaryeditarea .active_book img {padding: 4px;background: #eee;box-shadow: inset 0 0 2px #667;overflow: hidden;width: 60px;height: 70px;}
+.svcontentwithprogress .p_align { margin-top: 17px;}
+.testimonials_signup {background-color: #fff;}
+/* style for input span, form, hr */
+.testimonial .input-large {width: 231px;}
+.testimonial_margin form {margin: 8px 0 0 0;}
+.testimonial_margin hr {margin: 0 0 5px 0;}
+/*icons*/
+.testimonial_margin .smeditbar {margin: 10px 0 9px 5px;}
+.testimonial_margin .smeditbar li{display: inline-block; margin: 0 5px 5px 0; }
+.svsummaryeditarea .testimonial_section ul.smeditbar li.smmoveup a{display:block;width:14px;height:14px;background-image:url("../images/glyphicons-halflings-sm.png");background-position:-283px -94px;background-repeat:no-repeat;text-decoration:none;padding: 2px 6px;font-size: 10px;display: inline-block;background-color: #ccc;border-radius: 2px;margin-right: 2px;}
+.svsummaryeditarea .testimonial_section ul.smeditbar li.smmovedown a{display:block;width:14px;height:14px;background-image:url("../images/glyphicons-halflings-sm.png");background-position:-306px -94px;background-repeat:no-repeat;text-decoration:none;padding: 2px 6px;font-size: 10px;display: inline-block;background-color: #ccc;border-radius: 2px;margin-right: 2px;}
+.svsummaryeditarea .testimonial_section ul.smeditbar li.smdelete a{display:block;width:14px;height:14px;background-image:url("../images/glyphicons-halflings-sm.png");background-position:-451px 2px;background-repeat:no-repeat;text-decoration:none;padding: 2px 6px;font-size: 10px;display: inline-block;background-color: #ccc;border-radius: 2px;margin-right: 2px;}
+/*icons on hover*/
+.svsummaryeditarea .testimonial_section ul.smeditbar li.smmoveup a:hover{background-color: #666677;background-image:url("../images/glyphicons-halflings-white.png");background-position:-283px -94px;} /*style for move up and down hover*/
+.svsummaryeditarea .testimonial_section ul.smeditbar li.smmovedown a:hover {background-color: #666677;background-image:url("../images/glyphicons-halflings-white.png");background-position:-306px -94px}
+.svsummaryeditarea .testimonial_section ul.smeditbar li.smdelete a:hover{background-color: #b60000; background-image:url("../images/glyphicons-halflings-white.png");background-position:-451px 2px;} /* style for delete hover*/
+/* first and last child display */
+.svsummaryeditarea .testimonials .testimonial_section:first-child ul.smeditbar li.smmoveup {display: none;}
+.svsummaryeditarea .testimonials .testimonial_section:last-child ul.smeditbar li.smmovedown {display: none;}
+.svsummaryeditarea .testimonials .testimonial_section:last-child {border-bottom: 0px;}
+
+.testimonial textarea {width: 475px; max-width: 475px; min-width: 475px; min-height: 60px; margin-bottom: 12px;}
+.testimonial_margin .span8 {width: 485px; margin-left: 10px;}
+/* checkbox position */
+.svcontentwithprogress .editarea_banner label.checkbox input {margin-top: 2px;}
+.svcontentwithprogress .siminar_outline_display label.checkbox input {margin-top: 2px;}
+
+
+
+/*============ style for VIVEK 4 C i Bundle Sign Up Page Layout =====================*/
+.smbundlepromote ul.smeditbar li:last-child, .svsummarybasics ul.smeditbar li:last-child {margin-right: 6px!important;}
+
+
+/* ================= STYLE FOR VIVEK 2 D i PLAN MANAGER RETAIL PLAN ====================== */
+.custom_texturls {margin-top: 10px;}
+.custom_urls input.svfullwidth{width:663px;margin-bottom:12px;}
+.custom_urls select.svfullwidth{width:673px;margin-bottom:12px;}
+
+/* =============== STYLE FOR VIVEK WIP MS Table.HTML ==================*/
+.smbundlepriceoptions .smsumoptions {
+display: block;
+margin: 0 0 10px 0;
+border-radius: 6px;
+border: 1px solid #cccccc;
+background-color: #eeeeee;
+padding: 12px;
+}
